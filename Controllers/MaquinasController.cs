@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Poc.Crud.Models
+namespace Poc.Crud.Controllers
 {
-    internal class PessoaModel
+    class MaquinasController
     {
     }
 }
